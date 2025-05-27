@@ -1,2 +1,3 @@
 models/__pycache__
 dataLoaders/__pycache__
+checkpoints/*
